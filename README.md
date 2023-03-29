@@ -6,7 +6,7 @@
 所以开源想让大家一起贡献提交PR
 
 ## PREVIEW
-![预览](../master/assets/preview_cn.png)
+自行查看 **../assets/preview_cn.png**
 
 ## 使用方式
 通过表盘工具蓝牙安装或替换安装
