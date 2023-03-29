@@ -1,0 +1,57 @@
+{
+    "configVersion": "v2",
+    "app": {
+      "appId": 202210627,
+      "appName": "原神-纳西妲-智慧之神",
+      "appType": "watchface",
+      "version": { "code": 4, "name": "1.1.0" },
+      "vender": "SunRyK曉K",
+      "description": "纳西妲-智慧之神 原神角色动态表盘",
+      "icon": "preview_cn.png"
+    },
+    "permissions": ["gps"],
+    "runtime": {
+      "apiVersion": {
+        "compatible": "1.0.0",
+        "target": "1.0.1",
+        "minVersion": "1.0.0"
+      },
+      "type": 0
+    },
+    "i18n": {
+    "en-US": {
+      "appName": "Genshin-Nahida",
+      "name": "Nahida",
+      "vender": "SunRyK",
+      "description": "Nahida - Genshin Impact Character Dynamic Watchface.",
+      "icon": "preview_en.png"
+		},
+		"zh-CN": {
+			"icon": "preview_cn.png"
+		},
+		"zh-TW": {
+			"icon": "preview_cn.png"
+		}},
+    "defaultLanguage": "en-US",
+    "debug": false,
+    "module": {
+      "watchface": {
+        "path": "watchface/index",
+        "main": 1,
+        "editable": 1,
+        "lockscreen": 1,
+        "hightCost": 0
+      }
+    },
+    " ": [
+      { "name": "l66", "deviceSource": 260 },
+      { "name": "l66w", "deviceSource": 261 },
+      { "name": "l66_1", "deviceSource": 262 },
+      { "name": "l66w_2", "deviceSource": 263 },
+      { "name": "l66_3", "deviceSource": 264 },
+      { "name": "l66_4", "deviceSource": 265 },
+      { "name": "l66_5", "deviceSource": 266 }
+    ],
+    "designWidth": 192
+  }
+  
